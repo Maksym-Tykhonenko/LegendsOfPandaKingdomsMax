@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/pandaFontsForCfg/ADLaMDisplay-Regular.ttf",
+      "sha1": "58d2e6ceb2fffb6468891592754d3db422587985"
+    },
+    {
+      "path": "src/assets/pandaFontsForCfg/PathwayExtreme_14pt-Black.ttf",
+      "sha1": "7541dec3f0a15a911036f029505655a11eb3ec1d"
+    },
+    {
+      "path": "src/assets/pandaFontsForCfg/PathwayExtreme_14pt-Bold.ttf",
+      "sha1": "7cdb9d426ae11414aae1d0f968c8ab43bf9b177e"
+    },
+    {
+      "path": "src/assets/pandaFontsForCfg/PathwayExtreme_14pt-ExtraBold.ttf",
+      "sha1": "cd66c5ea2ef6310b39e1aff1296eee2ba096cbfa"
+    },
+    {
+      "path": "src/assets/pandaFontsForCfg/PathwayExtreme_14pt-Medium.ttf",
+      "sha1": "1274cf4050cb9a87b32fc79d1e774be5d5c7aa37"
+    },
+    {
+      "path": "src/assets/pandaFontsForCfg/PathwayExtreme_14pt-Regular.ttf",
+      "sha1": "799ba6e48ee74d4713c1e748285ce369af20bbc2"
+    },
+    {
+      "path": "src/assets/pandaFontsForCfg/PathwayExtreme_14pt-SemiBold.ttf",
+      "sha1": "469749c73c0256b89298cbc0a7ef747a76304192"
+    }
+  ]
+}
